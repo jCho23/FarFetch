@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{190FED96-E111-4129-9E42-2A59CC7DE069}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.FarFetch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FarFetch/Tests.cs">
+    <Files>
+      <File FileName="FarFetch/AppInitializer.cs" Line="30" Column="57" />
+      <File FileName="FarFetch/Tests.cs" Line="62" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
